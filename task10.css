@@ -1,0 +1,56 @@
+.container{
+    display: flex;
+}
+h1{
+ text-align: center;
+}
+.logo{
+background: red;
+height: 100px;
+width: 10%;
+
+}
+.heading{
+background: green;
+height: 100px;
+width: 90%;
+}
+.menu{
+    height: 75px;
+    background: yellow;
+    width: 100%;
+}
+.sec1{
+width: 33.3%;
+background: blue;
+height: 300px;
+}
+.sec2{
+    width: 33.3%;
+background: gray;
+height: 300px;
+}
+.sec3{
+    width: 33.3%;
+background: palevioletred;
+height: 300px;
+}
+.content{
+width: 75%;
+height: 700px;
+background: rgb(32, 232, 159);
+}
+.bar{
+height: 700px;
+background: rgb(103, 146, 5);
+width:25%;
+}
+.footer{
+    height: 15%;
+    width: 100%;
+    background: rgb(4, 104, 140);
+}
+body{
+    width: 100%;
+    
+}

@@ -1,0 +1,8 @@
+button:hover{
+    color:rgb(54, 141, 192);
+    cursor: progress;
+}
+button{
+    color: black;
+    background-color: rgb(14, 14, 233);
+}
